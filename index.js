@@ -6,6 +6,7 @@
         + If a plane takes off, its `isFlying` property is set to true.
         + If a plane lands, its `isFlying` property is set to false.
 */
+going to come back stronger when I flex this unit!
 
 // EXAMPLE SOLUTION CODE:
 function Airplane(name) {
